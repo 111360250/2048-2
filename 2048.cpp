@@ -1,4 +1,4 @@
-#include <stdio.h>         
+#include <stdio.h>          
 #include <stdlib.h>
 #include <conio.h>   //箭頭的標頭檔
 #include <time.h>
